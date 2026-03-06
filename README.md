@@ -129,10 +129,9 @@ Total de placas processadas: 10
 Sucesso: 10
 Erro: 0
 Taxa de sucesso: 100.0%
+
 ⚠️ Observações Importantes
 O script foi desenvolvido para o sistema ABM M3 Risk específico da empresa
-
-As credenciais de login estão expostas no código - não compartilhe seu repositório publicamente sem remover dados sensíveis
 
 Recomenda-se testar com poucas placas antes de executar em larga escala
 
@@ -146,9 +145,6 @@ Reportar bugs
 Sugerir melhorias
 
 Enviar pull requests
-
-📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Desenvolvido para otimizar processos repetitivos
 
